@@ -12,7 +12,7 @@
  <img width="232" alt="image" src="https://github.com/user-attachments/assets/21db1e50-8215-42fe-8112-b961fbcb8f94" />
 
  
- ### OurApproach
+ ### Our Approach
  #### Dataset Collection
  We initially obtained the dataset from the Alzheimer’s Disease Neuroimaging Initiative (ADNI), a longitudinal
  multicenter observational study. Researchers use this as the most common dataset worldwide for Alzheimer’s disease
